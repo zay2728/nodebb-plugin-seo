@@ -1,0 +1,51 @@
+{
+  "name": "nodebb-plugin-webmaster-seo",
+  "version": "0.1.1",
+  "description": "seos for NodeBB",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zay2728/nodebb-plugin-seos"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "seo",
+    "text"
+  ],
+  "author": {
+    "name": "zay2728",
+    "email": "mzainudin27@hotmail.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zay2728/nodebb-plugin-seos/issues"
+  },
+  "nbbpm": {
+    "compatibility": "^0.6.0"
+  },
+  "_id": "nodebb-plugin-seos@0.1.1",
+  "_from": "nodebb-plugin-seos@0.1.1",
+  "homepage": "https://github.com/zay2728/nodebb-plugin-seos",
+  "dist": {
+    "shasum": "e3216b04772ed98e2193388867cb18016b584b67",
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-webmaster-seo/-/nodebb-plugin-seos-0.1.1.tgz"
+  },
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "zay2728",
+    "email": "mzainudin27@hotmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "zay2728",
+      "email": "mzainudin27@hotmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "e3216b04772ed98e2193388867cb18016b584b67",
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-seos/-/nodebb-plugin-seos-0.1.1.tgz"
+}
